@@ -1,0 +1,8 @@
+payload:
+  - 'bing.com'
+  - 'civitai.com'
+  - 'coze.com'
+  - 'sf16-va.tiktokcdn.com'
+  - 'mon.tiktokv.com'
+  - 'mon-va.byteoversea.com'
+  - 'rebyte.ai'
